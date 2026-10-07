@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA",
+  "description": "AI Business Operating System — Unified intelligent management platform for businesses and enterprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
